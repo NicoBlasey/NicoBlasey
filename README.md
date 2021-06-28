@@ -10,7 +10,7 @@
 - ⚡ I Love to Develop Discord Bots and Games!
 - ⚡ I’m currently learning JavaScript , Node.js , C#
 - ⚡ I’m looking to collaborate with other Developer's creators
-- ⚡ I'm looking for possible opportunitys that i can grab 
+- ⚡ I'm looking for possible Opportunities that i can grab 
 - ⚡ Fun fact: I love to play games and make discord bots / Games on Unity
 
 <br />
