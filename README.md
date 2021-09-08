@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Nived - aka [NicoBlasey]👋
 
-[![Website](https://img.shields.io/website?color=green&down_color=red&down_message=down&label=http%3A%2F%2Fpowerdesk.xyz%2F&style=for-the-badge&up_color=green&up_message=online&url=http%3A%2F%2Fpowerdesk.xyz%2F)](http://powerdesk.xyz/)
+
 [![Discord](https://img.shields.io/website?color=green&down_color=red&down_message=down&label=DISCORD&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fdiscord.gg%2FjNTnxpz2xG)](https://discord.gg/jNTnxpz2xG)
 
 ## I'm Developer, and Employer!!
